@@ -26,6 +26,6 @@ docker cp index.html 111fcproyecto1:/usr/share/nginx/html/index.html
 ```
 para ver si se ha copiado bien
 ```
-docker exec -it 100fcproyecto1 cat /usr/share/nginx/html/index.html
+docker exec -it 111fcproyecto1 cat /usr/share/nginx/html/index.html
 
 ```
